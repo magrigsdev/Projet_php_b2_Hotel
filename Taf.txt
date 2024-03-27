@@ -1,0 +1,7 @@
+TAF & Taches:
+
+creer des classes : 
+    Commenter ----> frid
+    Reserver ---->Nathan
+    Chambre ---->Nick
+    users ---> Raphael
